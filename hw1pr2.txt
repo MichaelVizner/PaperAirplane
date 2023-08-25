@@ -6,7 +6,7 @@
 
 type paper
 
-get paper
+get paper (A4 is preferable)
 fold paper in half horizontally
 fold both sides of paper inwards having the outside edge touch the fold line
 fold both sides towards the center with the newer outside edge touching the center fold
