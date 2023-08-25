@@ -6,9 +6,9 @@
 
 type paper
 
-get paper
-fold paper in half horizontally
-fold both sides of paper inwards having the outside edge touch the fold line
-fold both sides towards the center with the newer outside edge touching the center fold
-fold both sides towards the center with the newer outside edge touching the center fold
-throw plane pointy side first at your teacher
+1- get paper
+2- fold paper in half horizontally
+3- fold both sides of paper inwards having the outside edge touch the fold line
+4- fold both sides towards the center with the newer outside edge touching the center fold
+5- fold both sides towards the center with the newer outside edge touching the center fold
+6- throw plane pointy side first at your teacher
